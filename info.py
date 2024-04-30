@@ -1,4 +1,3 @@
-#My information 
-difdojsfhewqofqewf
-ewfwqfw
+a = "Hello word"
+print(a)
 
