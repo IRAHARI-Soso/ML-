@@ -7,3 +7,6 @@ Soso and Ange
 Revision
 ---------------
 ---------------
+
+This Is the part of new version
+++++++++++++++++++++++++++++++
