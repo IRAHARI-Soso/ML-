@@ -10,3 +10,4 @@ Revision
 
 This Is the part of new version
 ++++++++++++++++++++++++++++++
+DevOps stand for Developent operations
